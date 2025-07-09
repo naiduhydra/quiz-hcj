@@ -1,4 +1,1 @@
-
-# quiz-hcj
-live link is https://naiduhydra.github.io/quiz-hcj/
-h
+this is project i biuilt by myself idea is my 
